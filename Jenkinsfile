@@ -1,4 +1,4 @@
-@Library('mpl@master') _
+@Library('mpl') _
 
 node( '' ) {
   stage( 'Application Checkout' ) {
